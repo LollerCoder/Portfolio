@@ -77,7 +77,7 @@ h1 {
 .project-section a {
   display: inline-block;
 
-  background-color: #998DA0;
+  background-color: #BE6E46;
   color: #093824;
 
   padding: 10px 20px;
@@ -92,6 +92,6 @@ h1 {
 }
 
 .project-section a:hover {
-  background-color: #28AFB0;
+  background-color: #D89D6A;
   transform: scale(1.05);
 }
